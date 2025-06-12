@@ -11,7 +11,7 @@
     "install-deps": "npm install && cd backend && npm install && cd ../frontend && npm install"
   },
   "keywords": ["expense", "management", "finance", "tracker"],
-  "author": "Your Name",
+  "author": "Kybaloo",
   "license": "MIT",
   "devDependencies": {
     "concurrently": "^7.6.0"
